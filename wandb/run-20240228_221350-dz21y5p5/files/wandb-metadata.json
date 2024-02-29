@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.11.7",
+    "heartbeatAt": "2024-02-29T03:13:55.479971",
+    "startedAt": "2024-02-29T03:13:50.864403",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "Python RAQA Example.ipynb",
+    "codePathLocal": null,
+    "git": {
+        "remote": "git@github.com:AI-Maker-Space/AI-Engineering.git",
+        "commit": null
+    },
+    "email": null,
+    "root": "\\\\wsl.localhost\\Ubuntu\\home\\annamuna\\AI-Engineering\\Week 2\\Day 1",
+    "host": "Aks-Legion",
+    "username": "akil_",
+    "executable": "c:\\Users\\akil_\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+    "cpu_count": 16,
+    "cpu_count_logical": 32,
+    "cpu_freq": {
+        "current": 2501.0,
+        "min": 0.0,
+        "max": 2501.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2501.0,
+            "min": 0.0,
+            "max": 2501.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 1006.853931427002,
+            "used": 11.832305908203125
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 4080 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 4080 Laptop GPU",
+            "memory_total": 12878610432
+        }
+    ],
+    "memory": {
+        "total": 31.18801498413086
+    }
+}
